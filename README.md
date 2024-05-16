@@ -3,3 +3,5 @@
 # <div align="center">Além Templates</div>
 
 Além is a web3 **JavaScript** / **TypeScript** library to create web3 apps for Near BOS.
+
+Want to create a new dApp using Além? Go to [**Além Dev**](https://alem.dev) page!
